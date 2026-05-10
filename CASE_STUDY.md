@@ -114,6 +114,3 @@ Claude cited specific entries by date, identified a non-obvious pattern (identit
 
 ---
 
-## Code
-
-GitHub: *(link to be added)*
